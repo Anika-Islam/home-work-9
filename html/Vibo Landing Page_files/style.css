@@ -1,0 +1,36 @@
+/* Global Css */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 90;
+    margin: auto;
+}
+/* Header part */
+header{
+    background:url(../image/Smartphone.png);
+    background-repeat: no-repeat ;
+    background-position: ;
+    
+}
+/* main header */
+.main header{
+
+}
+.logo-part{
+
+}
+.menu-part{
+
+}
+.menu-part ul{
+
+}
+.menu-part li{
+
+}
+.menu-part a{
+
+}
